@@ -1,0 +1,9 @@
+body {
+  font-family: Helvetica, sans-serif;
+  background-color: cornsilk;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  color: darkslateblue;
+}
